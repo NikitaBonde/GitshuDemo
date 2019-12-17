@@ -1,0 +1,3 @@
+server.port=9093
+spring.application.name=consclient
+eureka.client.service-url.defaultZone=http://localhost:8088//eureka

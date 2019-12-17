@@ -1,0 +1,5 @@
+package com.micro.client1.controller;
+
+public class HomeController {
+
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="UIload2"/>
+<aop-project name="EurekaClientProduce"/>
+<aop-project name="Zuuleclientload"/>
+<aop-project name="EurekaServer"/>
+<aop-project name="EurekaClientConsume"/>
+</aop-reference-model>

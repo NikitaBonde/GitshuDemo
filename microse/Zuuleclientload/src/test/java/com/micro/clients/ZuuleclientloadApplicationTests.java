@@ -1,0 +1,13 @@
+package com.micro.clients;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ZuuleclientloadApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
